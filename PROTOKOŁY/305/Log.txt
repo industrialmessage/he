@@ -1,0 +1,4 @@
+2021-03-19 1632 JTB
+1. Zmiana modułu X10-9 na nowy
+
+2. Problem ze znikaniem z
